@@ -53,4 +53,4 @@ Two variants are developed for this project. The first has 2 cameras, one in the
 Platform for data collection (PDC) demo:
 
 
-![alt text](https://github.ncsu.edu/rdasilv2/cyber_plant/blob/master/pictures/ezgif.com-crop.gif)
+![alt text](https://github.com/ARoS-NCSU/PlantPhenotypingPlatform/blob/main/pictures/ezgif.com-crop.gif)
